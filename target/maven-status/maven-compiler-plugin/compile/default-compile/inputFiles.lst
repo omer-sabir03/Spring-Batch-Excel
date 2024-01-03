@@ -1,0 +1,13 @@
+C:\Users\Omer Sabir\Downloads\spring-batch-file-upload-main\spring-batch-file-upload-main\src\main\java\com\omer\spring\batch\SpringBatchExampleApplication.java
+C:\Users\Omer Sabir\Downloads\spring-batch-file-upload-main\spring-batch-file-upload-main\src\main\java\com\omer\spring\batch\listener\CumulativePercentageListener.java
+C:\Users\Omer Sabir\Downloads\spring-batch-file-upload-main\spring-batch-file-upload-main\src\main\java\com\omer\spring\batch\entity\MaterialDTO.java
+C:\Users\Omer Sabir\Downloads\spring-batch-file-upload-main\spring-batch-file-upload-main\src\main\java\com\omer\spring\batch\controller\BatchJobController.java
+C:\Users\Omer Sabir\Downloads\spring-batch-file-upload-main\spring-batch-file-upload-main\src\main\java\com\omer\spring\batch\repository\CustomerRepository.java
+C:\Users\Omer Sabir\Downloads\spring-batch-file-upload-main\spring-batch-file-upload-main\src\main\java\com\omer\spring\batch\listener\StepSkipListener.java
+C:\Users\Omer Sabir\Downloads\spring-batch-file-upload-main\spring-batch-file-upload-main\src\main\java\com\omer\spring\batch\config\AbcAnalysisExcelRowMapper.java
+C:\Users\Omer Sabir\Downloads\spring-batch-file-upload-main\spring-batch-file-upload-main\src\main\java\com\omer\spring\batch\config\AbcProcessor.java
+C:\Users\Omer Sabir\Downloads\spring-batch-file-upload-main\spring-batch-file-upload-main\src\main\java\com\omer\spring\batch\entity\AbcAnalysisCloud.java
+C:\Users\Omer Sabir\Downloads\spring-batch-file-upload-main\spring-batch-file-upload-main\src\main\java\com\omer\spring\batch\config\ExceptionSkipPolicy.java
+C:\Users\Omer Sabir\Downloads\spring-batch-file-upload-main\spring-batch-file-upload-main\src\main\java\com\omer\spring\batch\config\CustomerItemWriter.java
+C:\Users\Omer Sabir\Downloads\spring-batch-file-upload-main\spring-batch-file-upload-main\src\main\java\com\omer\spring\batch\config\SpringBatchConfig.java
+C:\Users\Omer Sabir\Downloads\spring-batch-file-upload-main\spring-batch-file-upload-main\src\main\java\com\omer\spring\batch\config\JobCompletionNotificationListener.java

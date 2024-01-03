@@ -1,0 +1,13 @@
+com\omer\spring\batch\config\JobCompletionNotificationListener.class
+com\omer\spring\batch\controller\BatchJobController.class
+com\omer\spring\batch\listener\StepSkipListener.class
+com\omer\spring\batch\entity\MaterialDTO.class
+com\omer\spring\batch\listener\CumulativePercentageListener.class
+com\omer\spring\batch\config\CustomerItemWriter.class
+com\omer\spring\batch\config\AbcProcessor.class
+com\omer\spring\batch\config\AbcAnalysisExcelRowMapper.class
+com\omer\spring\batch\config\SpringBatchConfig.class
+com\omer\spring\batch\repository\CustomerRepository.class
+com\omer\spring\batch\SpringBatchExampleApplication.class
+com\omer\spring\batch\config\ExceptionSkipPolicy.class
+com\omer\spring\batch\entity\AbcAnalysisCloud.class
